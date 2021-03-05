@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "280a2b1fa6c924803f7e3d27af9f4ce3",
+    "revision": "8067be415365f12553aece74341601d1",
     "url": "/meliapp/index.html"
   },
   {
-    "revision": "ece1610913ab290fb963",
+    "revision": "a877a69b7dc7c090b994",
     "url": "/meliapp/static/css/main.99498a3c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/meliapp/static/js/2.058d66bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ece1610913ab290fb963",
-    "url": "/meliapp/static/js/main.2dc1b58d.chunk.js"
+    "revision": "a877a69b7dc7c090b994",
+    "url": "/meliapp/static/js/main.ff1af073.chunk.js"
   },
   {
     "revision": "79e3e1cc2253b988a50f",

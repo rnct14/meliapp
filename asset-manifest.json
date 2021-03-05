@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/meliapp/static/css/main.99498a3c.chunk.css",
-    "main.js": "/meliapp/static/js/main.2dc1b58d.chunk.js",
-    "main.js.map": "/meliapp/static/js/main.2dc1b58d.chunk.js.map",
+    "main.js": "/meliapp/static/js/main.ff1af073.chunk.js",
+    "main.js.map": "/meliapp/static/js/main.ff1af073.chunk.js.map",
     "runtime-main.js": "/meliapp/static/js/runtime-main.eca81268.js",
     "runtime-main.js.map": "/meliapp/static/js/runtime-main.eca81268.js.map",
     "static/js/2.058d66bd.chunk.js": "/meliapp/static/js/2.058d66bd.chunk.js",
     "static/js/2.058d66bd.chunk.js.map": "/meliapp/static/js/2.058d66bd.chunk.js.map",
     "index.html": "/meliapp/index.html",
-    "precache-manifest.d7c0e51e62ffdd687bf2e24f3f1696e2.js": "/meliapp/precache-manifest.d7c0e51e62ffdd687bf2e24f3f1696e2.js",
+    "precache-manifest.37f4146eab52d4dab0b52210d8762580.js": "/meliapp/precache-manifest.37f4146eab52d4dab0b52210d8762580.js",
     "service-worker.js": "/meliapp/service-worker.js",
     "static/css/main.99498a3c.chunk.css.map": "/meliapp/static/css/main.99498a3c.chunk.css.map",
     "static/js/2.058d66bd.chunk.js.LICENSE.txt": "/meliapp/static/js/2.058d66bd.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.eca81268.js",
     "static/js/2.058d66bd.chunk.js",
     "static/css/main.99498a3c.chunk.css",
-    "static/js/main.2dc1b58d.chunk.js"
+    "static/js/main.ff1af073.chunk.js"
   ]
 }
