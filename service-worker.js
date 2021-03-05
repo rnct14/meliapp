@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/meliapp/precache-manifest.39ec925195ac1eb859583af0bf062b31.js"
+  "/meliapp/precache-manifest.68960e4485f7a6dfbeb468f4f382c437.js"
 );
 
 self.addEventListener('message', (event) => {
